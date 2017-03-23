@@ -1,6 +1,7 @@
 <?php 
 
 require 'includes/cpt.php';
+require 'includes/acf.php';
 
 # Theme support
 
